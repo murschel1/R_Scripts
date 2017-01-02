@@ -1,3 +1,3 @@
 # R_Scripts
 R scripts/applications
-a bit about myself
+A general repository for R scripts written by M. Urschel
